@@ -13,3 +13,8 @@ class User:
 
 u1 = User("David", 45)
 u1.displayInfo()
+
+class Test:
+    pass 
+
+
